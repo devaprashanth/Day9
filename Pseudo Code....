@@ -1,0 +1,8 @@
+ Set Character c = '7'
+                                    switch(c)
+                                    case '1': display "One"
+                                    case '7': display "Seven"
+                                    case '2': display "Two"
+                                    default: display "Hello"
+                                    break
+                           end-switch
